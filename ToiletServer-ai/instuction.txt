@@ -1,0 +1,4 @@
+Instructions for use:
+Firstly, you need to access the missile server's lobby and initiate the program.
+After each game session, manual termination is required before restarting the program.
+Each instance of the program should be run on a single device, although virtual machines are supportes

@@ -1,0 +1,4 @@
+pyautogui==any
+sqlite3==any
+random==any
+datetime==any
